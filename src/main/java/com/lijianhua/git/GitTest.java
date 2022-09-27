@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("pull test");
         System.out.println("conflict test");
+	System.out.println("自己练习一下git命令");
     }
 }
